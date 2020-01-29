@@ -12,7 +12,8 @@ To develop this network, there are several time challenging items among other th
 -	What speed to give to the paddle?
 -	What should be the output parameter that makes the paddle(s) move and places these at the correct location to hit the ball?
 The neural network was constructed using C# as part of the students’ challenge assignment in a deep learning course using Unity taught by Dr. Penny de Bly.
-The source folder contains the main C# scripts needed to develop this game.  The additional resources are part of the course and are not available.  However, the canvas items, fonts, sound effects, and bounce physics model can be easily created and/or downloaded from the Unity Assets Store. 
+The source folder contains the main C# scripts needed to develop this game.  The additional resources are part of the course and are not available.  However, the canvas items, fonts, sound effects, and bounce physics model can be easily created and/or downloaded from the Unity Assets Store.
+
 The network consists of six inputs:
 1. Ball (horizontal) x-velocity
 2. Ball (vertical) y-velocity
